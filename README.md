@@ -1,5 +1,3 @@
-# delivery-routing-optimizer
-Python delivery routing optimizer with custom hash table and greedy algorithm for multi-truck scheduling.
 # Delivery Routing Optimizer
 
 Python delivery routing optimizer for a local parcel service. The program loads ~40 packages, assigns them across multiple trucks, and computes efficient delivery routes under real-world constraints.
