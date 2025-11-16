@@ -2,6 +2,8 @@
 
 This is a small Python project where I built a custom delivery routing system for a fictional local parcel service.
 
+**Tech Stack:** Python 3, custom data structures (hash table), CSV parsing, command-line interface
+
 The program takes a list of around 40 packages, three trucks, and a distance table, then:
 
 - Loads all package and distance data
